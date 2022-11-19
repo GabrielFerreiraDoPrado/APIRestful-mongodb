@@ -50,4 +50,4 @@ possui um autor. O acesso a dados foi realizado de forma otimizada em um Banco d
 
 # Autor
 
-[Meu Perfil](https://www.linkedin.com/in/gabriel-ferreira-do-prado-25863919a/) no LinkedIn
+[Meu Perfil](https://www.linkedin.com/in/gabriel-ferreira-do-prado/) no LinkedIn
